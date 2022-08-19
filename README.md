@@ -9,7 +9,6 @@ This is a LiDAR-IMU dataset using a handheld hemispherical view LiDAR-IMU system
 Sequence Name|Collection Date|Total Size|Duration|Rosbag|GT
 --|:--|:--:|--:|--:|--:
 
-Indoor 2|2022-01-16|709M|11s|[Rosbag](https://whueducn-my.sharepoint.com/:f:/g/personal/2016302590017_whu_edu_cn/ElZp81OzPQxHpWypy7iXwXYBkiv5_yBZRCi4UqVcLaW8NQ?e=mGMJf8)|Not Available
-
+Indoor 2|2022-01-16|709M|11s|[Rosbag](https://whueducn-my.sharepoint.com/:f:/g/personal/2016302590017_whu_edu_cn/ElZp81OzPQxHpWypy7iXwXYBkiv5_yBZRCi4UqVcLaW8NQ?e=mGMJf8)|[GT](https://whueducn-my.sharepoint.com/:f:/g/personal/2016302590017_whu_edu_cn/ElZp81OzPQxHpWypy7iXwXYBkiv5_yBZRCi4UqVcLaW8NQ?e=mGMJf8)
 
 </div>
