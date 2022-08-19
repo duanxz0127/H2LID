@@ -9,9 +9,9 @@ This is a LiDAR-IMU dataset using a handheld hemispherical view LiDAR-IMU system
 Our handheld system integrates a nine-axis IMU ([Owllmo IMU3910](http://www.owllmo.com/productinfo/341948.html)) and a hemispherical view LiDAR ([RoboSense RS-Bpearl](https://www.robosense.cn/en/rslidar/RS-Bpearl)). Two outdoor data sequences are collected in open-air environments by fixing the system on a mobile platform equipped with a GNSS + Inertial Navigation System (INS) system, as shown below.
 
 <div align=center>
-	<img src="https://github.com/duanxz0127/H2LID/blob/main/mypics/platform.jpg" width="400px">
+	<img src="https://github.com/duanxz0127/H2LID/blob/main/mypics/platform.jpg" width="1000px">
 </div>
-<p align="left">Figure 1. The equipment for outdoor data collection</p>
+<p align=center>Figure 1. The equipment for outdoor data collection</p>
 
 
 ## 2. DATASET SEQUENCES
