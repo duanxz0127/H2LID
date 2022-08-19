@@ -19,10 +19,10 @@ Our handheld system integrates a nine-axis IMU ([Owllmo IMU3910](http://www.owll
 
 Sequence|Collection Date|Total Size|Duration|Rosbag|Ground Truth
 --|:--|:--:|--:|--:|--:
-Indoor 1|2022-01-16|3.8G|227s|[Rosbag]()|--
-Indoor 2|2022-01-16|709M|11s|[Rosbag]()|--
-Outdoor 1|2022-01-16|4.5G|331s|[Rosbag]()|--
-Outdoor 2|2022-01-16|5.1G|341s|[Rosbag]()|--
+Indoor 1|2022-01-16|3.8G|227s|[Rosbag]()|----------
+Indoor 2|2022-01-16|709M|11s|[Rosbag]()|----------
+Outdoor 1|2022-01-16|4.5G|331s|[Rosbag]()|----------
+Outdoor 2|2022-01-16|5.1G|341s|[Rosbag]()|----------
 Outdoor 3|2022-01-16|10.8G|953s|[Rosbag]()|[Ground Truth](https://whueducn-my.sharepoint.com/:t:/g/personal/2016302590017_whu_edu_cn/EWbAgaaGECZAvlvonh-3KccBlc70nYBGJOek62BAFnMMeA?e=cVGX3G)
 Outdoor 4|2022-01-16|5.9G|567s|[Rosbag]()|[Ground Truth](https://whueducn-my.sharepoint.com/:t:/g/personal/2016302590017_whu_edu_cn/Ef5qaqZWDipHo64U0wCzAvgBZ_y0cfVyOrRC2cxDdUUPkQ?e=FJJtN1)
 
