@@ -17,7 +17,7 @@ Dist/m |7727.72| 618.03| 248.40|263.17|845.15|200.14|266.27|144.13|395.66|10708.
 Ground Truth  |RTK/INS |RTK/INS |RTK/INS |RTK/INS |Leica |Leica |Leica |Mocap|Mocap| ---
 
 Sequence Name|Collection Date|Total Size|Duration|Rosbag|GT
-
-Indoor 2|2022-01-16|709M|11s|[Rosbag](https://whueducn-my.sharepoint.com/:f:/g/personal/2016302590017_whu_edu_cn/ElZp81OzPQxHpWypy7iXwXYBkiv5_yBZRCi4UqVcLaW8NQ?e=mGMJf8)|[GT](https://whueducn-my.sharepoint.com/:f:/g/personal/2016302590017_whu_edu_cn/ElZp81OzPQxHpWypy7iXwXYBkiv5_yBZRCi4UqVcLaW8NQ?e=mGMJf8)
+--|:--|:--:|--:|--:|--:
+Indoor 2|2022-01-16|709M|11s|[Rosbag](https://whueducn-my.sharepoint.com/:f:/g/personal/2016302590017_whu_edu_cn/ElZp81OzPQxHpWypy7iXwXYBkiv5_yBZRCi4UqVcLaW8NQ?e=mGMJf8)|[GT](https://whueducn-my.sharepoint.com/:f:/g/personal/2016302590017_whu_edu_cn/ElZp81OzPQxHpWypy7iXwXYBkiv5_yBZRCi4UqVcLaW8NQ?e=mGMJf8) ---
 
 </div>
