@@ -60,5 +60,5 @@ GPSTime(sec)|Easting(m)|Northing(m)|H-Ell(m)|Heading(deg)|Pitch(deg)|Roll(deg)|L
 
 After online calibration, the recommended extrinsic parameters for LiDRA-IMU are:
 
-R = [1 0 0; 0 1 0; 0 0 1]
-t = [0.0175 0.0276 -0.1083]
+* R = [1 0 0; 0 1 0; 0 0 1]
+* t = [0.0175 0.0276 -0.1083]
