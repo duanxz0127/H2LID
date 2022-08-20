@@ -58,7 +58,7 @@ GPSTime(sec)|Easting(m)|Northing(m)|H-Ell(m)|Heading(deg)|Pitch(deg)|Roll(deg)|L
 
 ## 4. CALIBRATION
 
-After online calibration, the recommended extrinsic parameters for LiDRA-IMU are:
+The recommended extrinsic parameters for LiDRA-IMU (the coordinates of LiDAR in the IMU coordinate system) are:
 
 * extrinsc_R: `[1 0 0; 0 1 0; 0 0 1]`
 * extrinsc_t: `[0.0175 0.0276 -0.1083]`
