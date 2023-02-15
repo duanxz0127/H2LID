@@ -63,7 +63,7 @@ The recommended extrinsic parameters for LiDRA-IMU (the coordinates of LiDAR in 
 * extrinsc_R: `[1 0 0; 0 1 0; 0 0 1]`
 * extrinsc_t: `[0.0175 0.0276 -0.1083]`
 
-## 5. DETAILS
+## 5. DATASET DETAILS
 
 <div align=center>
 	<img src="https://github.com/duanxz0127/H2LID/blob/main/mypics/The photos and the 3D point cloud map of Indoor 1 sequence.jpg" width="800px">
