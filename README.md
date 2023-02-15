@@ -62,3 +62,36 @@ The recommended extrinsic parameters for LiDRA-IMU (the coordinates of LiDAR in 
 
 * extrinsc_R: `[1 0 0; 0 1 0; 0 0 1]`
 * extrinsc_t: `[0.0175 0.0276 -0.1083]`
+
+## 5. DETAILS
+
+<div align=center>
+	<img src="https://github.com/duanxz0127/H2LID/blob/main/mypics/The photos and the 3D point cloud map of Indoor 1 sequence.jpg" width="800px">
+</div>
+<p align=center>Figure 2. Indoor 1 sequence</p>
+
+<div align=center>
+	<img src="https://github.com/duanxz0127/H2LID/blob/main/mypics/The photos and the 3D point cloud map of Indoor 2 sequence.jpg" width="800px">
+</div>
+<p align=center>Figure 3. Indoor 2 sequence</p>
+
+<div align=center>
+	<img src="https://github.com/duanxz0127/H2LID/blob/main/mypics/The photos and the 3D point cloud map of Outdoor 1 sequence.jpg" width="800px">
+</div>
+<p align=center>Figure 4. Outdoor 1 sequence</p>
+
+<div align=center>
+	<img src="https://github.com/duanxz0127/H2LID/blob/main/mypics/The photos and the 3D point cloud map of Outdoor 2 sequence.jpg" width="800px">
+</div>
+<p align=center>Figure 5. Outdoor 2 sequence</p>
+
+
+<div align=center>
+	<img src="https://github.com/duanxz0127/H2LID/blob/main/mypics/The photos and the 3D point cloud map of Outdoor 3 sequence.jpg" width="800px">
+</div>
+<p align=center>Figure 6. Outdoor 3 sequence</p>
+
+<div align=center>
+	<img src="https://github.com/duanxz0127/H2LID/blob/main/mypics/The photos and the 3D point cloud map of Outdoor 4 sequence.jpg" width="800px">
+</div>
+<p align=center>Figure 7. Outdoor 4 sequence</p>
